@@ -7,6 +7,7 @@ The dice are based on my [Mouthful of Teeth](https://github.com/snowkeep/mouthfu
 [Dice More Nice](https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice).
 
 ## Themes
+![gallery](.images/gravediggers.webp?raw=true)
 
 
 
