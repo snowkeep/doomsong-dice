@@ -6,7 +6,7 @@ The Doomcoin and dice glyphs are owned by [CeasarInk](https://caesar.ink/), the 
 The dice are based on my [Mouthful of Teeth](https://github.com/snowkeep/mouthful-of-teeth-dice/) theme and the Grifter dice from
 [Dice More Nice](https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice).
 
-Thank you to artaey on the Caesar Ink discord for the 3d Doomcoin model.
+Thank you to Artaey on the Caesar Ink discord for the 3d Doomcoin model.
 
 ## Themes
 ![gallery](./images/gallery.webp?raw=true)
